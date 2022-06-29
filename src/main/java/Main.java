@@ -21,6 +21,7 @@ class Taxi {
         this.fare = fare;
         this.perFare = perFare;
         this.dest =dest;
+
     }
 
     public void taxiStart() { // 운행시작
